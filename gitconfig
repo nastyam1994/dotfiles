@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nastyam_94@bk.ru
+	name = Nastya Mikhailova
