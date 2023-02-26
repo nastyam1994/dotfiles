@@ -12,6 +12,7 @@
 [core]
   pager = less -FRSX
   editor = code --wait
+	sshCommand = ssh -i ~/.ssh/id_rsa -F /dev/null
 
 [alias]
   co = checkout
@@ -61,4 +62,4 @@
   defaultBranch = master
 [user]
 	email = nastyam_94@bk.ru
-	name = Nastya Mikhailova
+	name = Anastasiia Mikhailova
